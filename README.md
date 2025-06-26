@@ -17,3 +17,6 @@ All of the datasets were downloaded from Kaggle.
 - [Flight Satisfaction Data](https://www.kaggle.com/datasets/khaledxbenali/airline-passenger-satisfaction)
 - [Beverage Sales](https://www.kaggle.com/datasets/ambikaprasadrath/synthetic-beverage-sales-data)
 
+## Author and Contact Information
+Sandra Viluckytė -> sandra.viluckyte@gmail.com
+

@@ -9,7 +9,7 @@ Here you'll find my Python and Power BI projects, completed as part of my Data A
 
 ## How to check?
 - **Python and pdf files can be checked here by clicking on them**
-- **CSV files can be downloaded and opened with Microsoft Excel or a similar program**
+- **Larger CSV files can be downloaded and opened with Microsoft Excel or a similar program**
 - **You will need to download Power BI file by clicking on the URL found in txt file**
 
 ## Datasets
